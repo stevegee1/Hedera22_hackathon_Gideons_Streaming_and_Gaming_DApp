@@ -7,7 +7,7 @@
 
 
 // Import classes etc.
-import { Connection } from "./modules/connection.js";
+import { Connection } from "./modules/connection.js.js";
 import { AccountId, PrivateKey, Hbar, CustomRoyaltyFee, CustomFixedFee, TokenCreateTransaction, TokenType, TokenSupplyType, TokenInfoQuery, TokenMintTransaction, TokenBurnTransaction, AccountUpdateTransaction, TokenAssociateTransaction, TransferTransaction, AccountBalanceQuery } from "@hashgraph/sdk";
 import { NFTStorage, File, Blob } from "nft.storage";
 import fs from "fs";
