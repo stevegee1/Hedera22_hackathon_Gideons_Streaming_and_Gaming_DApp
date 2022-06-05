@@ -3,9 +3,9 @@ pragma solidity ^0.8.0;
 
 //This is a voting contract
 
-contract Ballotvote {
+contract RapBattleContract{
     //This is the address that deploys the contract
-    address public chairperson;
+    address public chairperson; //This can be a DAO contract
 
     //This is an array of Rappers/Constestants' struct
     Contestant[] public contestantsArray;
