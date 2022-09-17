@@ -33,3 +33,6 @@ We will also offer additional features such as league administration, digital & 
 6.  Daily/Weekly/Monthly grab prizes: Buying NFTs of battle rappers from an available pool of battle rappers to select from and compete against other users who have also selected or bought. Whichever user has the most successful roster, meaning their roster had the most wins during a given period of time wins the prize 
 
 
+Code Files and functions
+
+Backend infrastructure that collects data from the blockchain, offers an API to clients like web apps and mobile apps, indexes the blockchain, provides real-time alerts, coordinates events that are happening on different chains, handles the user life-cycle and so much more.  Moralis
